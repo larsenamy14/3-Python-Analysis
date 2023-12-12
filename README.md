@@ -11,4 +11,5 @@
 
 ### (4) Send output through terminal
 
-### (5) Create .txt file with output and save to Analysis folder for both PyBank and PyPoll
+### (5) Create .txt file with output 
+#### Save both files to Analysis folder for both PyBank and PyPoll
