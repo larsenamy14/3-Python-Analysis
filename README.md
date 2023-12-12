@@ -2,13 +2,13 @@
 
 ## Write pseudo code for PyBank and PyPoll analysis
 
-### Download both csv files to computer
+### (1) Download both csv files to computer
 #### Files can now be referenced in the "Downloads" folder
 
-### Define variables for analysis
+### (2) Define variables for analysis
 
-### Develop Python coding
+### (3) Develop Python coding to answer analysis questions
 
-### Send output through terminal
+### (4) Send output through terminal
 
-### Create .txt file with output and save to Analysis folder for both PyBank and PyPoll
+### (5) Create .txt file with output and save to Analysis folder for both PyBank and PyPoll
