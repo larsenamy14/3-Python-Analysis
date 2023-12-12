@@ -7,6 +7,7 @@
 ##### Files can now be referenced in the "Downloads" folder
 
 ### (3) Develop Python coding to answer analysis questions
+#### Import os, csv
 
 ### (4) Print output through terminal
 
