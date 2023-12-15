@@ -12,4 +12,4 @@
 ### (4) Print output through terminal
 
 ### (5) Create .txt file with output 
-##### Save both files to Analysis folder for both PyBank and PyPoll
+##### Save files to Analysis folder for both PyBank and PyPoll
